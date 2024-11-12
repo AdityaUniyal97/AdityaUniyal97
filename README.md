@@ -5,3 +5,19 @@
 - 📫 How to reach me: [Your Email or LinkedIn profile link]  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m great at visualizing and logically breaking down problems, and I prefer coding solutions over development!  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
+## Binary Search
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
+## Sorting
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
+<!---LeetCode Topics End-->
