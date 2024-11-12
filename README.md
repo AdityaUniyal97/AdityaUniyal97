@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0223-rectangle-area) |
 | [0415-add-strings](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0415-add-strings) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
