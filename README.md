@@ -11,11 +11,13 @@
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -43,5 +45,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
