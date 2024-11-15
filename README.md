@@ -14,6 +14,7 @@
 | [0011-container-with-most-water](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [0724-find-pivot-index](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0724-find-pivot-index) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -66,6 +67,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
@@ -83,4 +85,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0011-container-with-most-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
