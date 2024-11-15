@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0415-add-strings](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0415-add-strings) |
 ## Simulation
 |  |
@@ -57,6 +58,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
