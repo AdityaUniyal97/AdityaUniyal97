@@ -21,6 +21,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
 |  |
 | ------- |
