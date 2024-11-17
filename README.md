@@ -114,13 +114,16 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
