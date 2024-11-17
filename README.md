@@ -116,14 +116,17 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
