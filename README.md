@@ -15,6 +15,7 @@
 | [0015-3sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0016-3sum-closest) |
+| [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
@@ -86,6 +88,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1755-defuse-the-bomb) |
@@ -162,4 +165,12 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
