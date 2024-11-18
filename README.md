@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -40,6 +41,7 @@
 | [0015-3sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0015-3sum) |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
