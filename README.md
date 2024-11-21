@@ -15,6 +15,7 @@
 | [0015-3sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0059-spiral-matrix-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
