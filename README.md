@@ -20,6 +20,7 @@
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Geometry
 |  |
@@ -185,5 +187,6 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
