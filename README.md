@@ -64,6 +64,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0415-add-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -156,6 +157,7 @@
 | [0100-same-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -164,6 +166,7 @@
 | [0100-same-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
@@ -173,6 +176,7 @@
 | [0100-same-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -202,4 +206,8 @@
 | [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [1972-rotating-the-box](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
