@@ -155,6 +155,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -162,6 +163,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
@@ -170,12 +172,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 ## Bit Manipulation
 |  |
