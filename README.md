@@ -28,6 +28,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
+| [2089-maximum-matrix-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2089-maximum-matrix-sum) |
 ## Queue
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [1972-rotating-the-box](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Backtracking
 |  |
