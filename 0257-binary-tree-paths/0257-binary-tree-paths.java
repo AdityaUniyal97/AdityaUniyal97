@@ -20,16 +20,12 @@ class Solution {
         {
             return result;
         }
-        buildPaths(root , "" , result);
+        findPaths(root,"",result);
         return result;
     }
 
-    private void buildPaths(TreeNode node , String path , List<String> result)
+    private void findPaths(TreeNode node , String path , List<String> result)
     {
-        if(node == null)
-        {
-            return ;
-        }
         path += node.val;
         if(node.left == null && node.right == null)
         {
@@ -37,9 +33,14 @@ class Solution {
         }
         else{
             path += "->";
-            buildPaths(node.left, path, result);
-            buildPaths(node.right, path, result);
-
+            if(node.left != null)
+            {
+                findPaths(node.left , path, result);
+            }
+            if(node.right != null)
+            {
+                findPaths(node.right , path , result);
+            }
         }
     }
 }
