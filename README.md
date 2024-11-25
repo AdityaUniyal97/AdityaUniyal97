@@ -24,6 +24,7 @@
 | [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0724-find-pivot-index) |
+| [0787-sliding-puzzle](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1755-defuse-the-bomb) |
@@ -194,6 +195,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
+| [0787-sliding-puzzle](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0787-sliding-puzzle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0059-spiral-matrix-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
+| [0787-sliding-puzzle](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
