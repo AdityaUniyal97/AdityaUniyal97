@@ -223,4 +223,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
