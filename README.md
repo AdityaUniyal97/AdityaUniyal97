@@ -93,6 +93,7 @@
 | [0016-3sum-closest](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -230,4 +231,8 @@
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3189-find-champion-ii) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
