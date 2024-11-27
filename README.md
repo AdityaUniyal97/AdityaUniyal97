@@ -42,6 +42,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
@@ -217,6 +218,7 @@
 | [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Linked List
 |  |
 | ------- |
