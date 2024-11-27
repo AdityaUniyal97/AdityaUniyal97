@@ -17,6 +17,7 @@
 | [0018-4sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0088-merge-sorted-array) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [2089-maximum-matrix-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2089-maximum-matrix-sum) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Tree
 |  |
