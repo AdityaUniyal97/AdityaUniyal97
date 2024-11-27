@@ -235,4 +235,5 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
