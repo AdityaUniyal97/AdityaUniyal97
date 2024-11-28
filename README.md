@@ -40,6 +40,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -161,6 +162,7 @@
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0226-invert-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Bit Manipulation
 |  |
@@ -242,6 +245,7 @@
 | [1972-rotating-the-box](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Backtracking
 |  |
 | ------- |
@@ -249,6 +253,7 @@
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Linked List
@@ -256,4 +261,8 @@
 | ------- |
 | [0086-partition-list](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0092-reverse-linked-list-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
