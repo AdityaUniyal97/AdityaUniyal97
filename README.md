@@ -202,6 +202,7 @@
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2201-valid-arrangement-of-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -266,4 +268,8 @@
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
