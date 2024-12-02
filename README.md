@@ -85,6 +85,7 @@
 | [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0415-add-strings) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3451-string-compression-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3451-string-compression-iii) |
 ## Simulation
@@ -115,6 +116,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
