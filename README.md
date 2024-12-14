@@ -50,6 +50,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2868-continuous-subarrays](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -165,6 +166,7 @@
 | [1755-defuse-the-bomb](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -206,11 +209,13 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2868-continuous-subarrays) |
 ## String Matching
 |  |
 | ------- |
@@ -280,6 +285,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
+| [2868-continuous-subarrays](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2868-continuous-subarrays) |
 ## Matrix
 |  |
 | ------- |
