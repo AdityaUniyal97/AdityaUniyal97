@@ -54,6 +54,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | ------- |
 | [0223-rectangle-area](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0223-rectangle-area) |
 | [0415-add-strings](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0415-add-strings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -210,6 +213,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
