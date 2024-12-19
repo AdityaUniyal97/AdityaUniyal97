@@ -31,6 +31,7 @@
 | [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0724-find-pivot-index) |
+| [0780-max-chunks-to-make-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -83,6 +84,7 @@
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
+| [0780-max-chunks-to-make-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -179,11 +181,13 @@
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Prefix Sum
@@ -199,6 +203,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
+| [0780-max-chunks-to-make-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0780-max-chunks-to-make-sorted) |
 | [2089-maximum-matrix-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
