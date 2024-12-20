@@ -255,6 +255,7 @@
 | [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -288,6 +291,7 @@
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Bit Manipulation
 |  |
