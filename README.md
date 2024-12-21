@@ -256,6 +256,7 @@
 | [0437-path-sum-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0543-diameter-of-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
