@@ -34,6 +34,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1063-best-sightseeing-pair](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -248,6 +249,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1063-best-sightseeing-pair](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2164-two-best-non-overlapping-events) |
 ## Tree
 |  |
