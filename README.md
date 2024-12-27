@@ -28,6 +28,7 @@
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0724-find-pivot-index) |
@@ -249,6 +250,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0494-target-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2164-two-best-non-overlapping-events) |
 ## Tree
@@ -341,6 +343,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0494-target-sum) |
 ## Graph
 |  |
 | ------- |
