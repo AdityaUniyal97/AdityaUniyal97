@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0016-3sum-closest) |
@@ -163,6 +164,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2300-construct-string-with-repeat-limit) |
