@@ -1,16 +1,13 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        List<Integer> newArray = new ArrayList<>();
-        for(int i =0 ; i < nums.length ; i++){
+        int index = 0;
+        for(int i = 0 ; i < nums.length ; i++){
             if(nums[i] != val){
-                newArray.add(nums[i]);
+                nums[index] = nums[i];
+                index++;
             }
         }
-        for(int i = 0 ; i < newArray.size() ; i++){
-            nums[i] = newArray.get(i);
-        }
-        return newArray.size();
+        return index;
     }
 }
 
-// TIme Complexity O(n)
