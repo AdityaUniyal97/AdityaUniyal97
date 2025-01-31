@@ -27,6 +27,7 @@
 | [0179-largest-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0494-target-sum) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -88,6 +90,7 @@
 | [0088-merge-sorted-array](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
+| [0268-missing-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0506-relative-ranks) |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0223-rectangle-area) |
+| [0268-missing-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0415-add-strings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -168,6 +172,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/2300-construct-string-with-repeat-limit) |
@@ -326,6 +331,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
