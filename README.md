@@ -23,6 +23,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0220-contains-duplicate-iii) |
@@ -331,6 +332,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AdityaUniyal97/AdityaUniyal97/tree/master/0389-find-the-difference) |
 ## Bucket Sort
