@@ -1,24 +1,17 @@
 class Solution {
     public int tribonacci(int n) {
-        Map<Integer,Integer> memo = new HashMap<>();
-        return helper(n,memo);
-    }
-
-    private int helper(int n , Map<Integer,Integer> memo){
-        if(memo.containsKey(n)){
-            return memo.get(n);
-        }
-        int result;
         if(n == 0){
             return 0;
         }
         else if(n == 1 || n == 2){
-            result = 1;
+            return 1;
         }
-        else{
-            result = helper(n - 1,memo)+helper(n-2,memo)+helper(n-3,memo);
+        int[] dp = new int[n + 1];
+        dp[1] = 1;
+        dp[2] = 1;
+        for(int i = 3 ; i <= n ; i++){
+            dp[i] = dp[i-1] + dp[i -2] + dp[i-3];
         }
-        memo.put(n,result);
-        return result;
+        return dp[n];
     }
 }
