@@ -1,4 +1,5 @@
 class Solution {
+    //main
     public int fib(int n) {
        if(n == 0 || n == 1){
         return n;
@@ -6,7 +7,7 @@ class Solution {
        int dp[] = new int[n + 1];
        return helper(n , dp);
     }
-
+    //helper 
     public int helper(int n , int dp[]){
         if (n == 0 || n == 1) {
             return n;
