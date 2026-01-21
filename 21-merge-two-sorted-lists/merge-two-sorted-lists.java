@@ -15,7 +15,7 @@ class Solution {
         ListNode p1 = list1;
         ListNode p2 = list2;
         while(p1 != null && p2 != null){
-            if(p1.val <= p2.val){
+            if(p1.val < p2.val){
                 tail.next = p1;
                 p1 = p1.next;
                 tail = tail.next;
