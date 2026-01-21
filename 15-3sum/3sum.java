@@ -8,25 +8,25 @@ class Solution {
                 continue;
             }
             int l = i + 1;
-            int j = n - 1;
-            while(l < j){
-                int sum = nums[i] + nums[l] + nums[j];
+            int r = n - 1;
+            while(l < r){
+                int sum = nums[i] + nums[l] + nums[r];
                 if(sum == 0){
-                    ans.add(Arrays.asList(nums[i],nums[l],nums[j]));
+                    ans.add(Arrays.asList(nums[i],nums[l],nums[r]));
                     l++;
-                    j--;
-                    while(l < j && nums[l] == nums[l - 1]){
+                    r--;
+                    while(l < r && nums[l] == nums[l - 1]){
                         l++;
                     }
-                    while(l < j && nums[j] == nums[j + 1]){
-                        j--;
+                    while(l < r && nums[r] == nums[r + 1]){
+                        r--;
                     }
                 }
                 else if(sum < 0){
                     l++;
                 }
                 else{
-                    j--;
+                    r--;
                 }
             }
         }
