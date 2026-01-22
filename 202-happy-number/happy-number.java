@@ -2,23 +2,20 @@ class Solution {
     public boolean isHappy(int n) {
         int slow = n;
         int fast = n;
-        while(true){
-        slow = next(slow);
-        fast = next(next(fast));
-        if(slow == fast){
-            break;
-        }
-        }
+        do{
+            slow = helper(slow);
+            fast = helper(helper(fast));
+        }while(slow != fast);
         return slow == 1;
     }
 
-    private int next(int n){
-        int sum = 0;
+    private int helper(int n){
+        int res = 0;
         while(n > 0){
             int ld = n % 10;
-            sum += ld * ld;
+            res += ld * ld;
             n = n / 10;
         }
-        return sum;
+        return res;
     }
 }
