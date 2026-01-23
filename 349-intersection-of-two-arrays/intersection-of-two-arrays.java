@@ -4,26 +4,30 @@ class Solution {
         Arrays.sort(nums2);
         int i = 0;
         int j = 0;
-        List<Integer> ans = new ArrayList<>();
+        ArrayList<Integer> ans = new ArrayList<>();
         while(i < nums1.length && j < nums2.length){
-            if(nums1[i] < nums2[j]){
-                i++;
+            if(nums1[i] == nums2[j]){
+                ans.add(nums1[i]);
+                int val = nums1[i];
+                while(i < nums1.length && nums1[i] == val){
+                    i++;
+                }
+                while(j < nums2.length && nums2[j] == val){
+                    j++;
+                }
             }
-            else if(nums1[i] > nums2[j]){
-                j++;
+            else if(nums1[i] < nums2[j]){
+                i++;
             }
             else{
-                if(ans.size() == 0 || ans.get(ans.size() - 1) != nums1[i]){
-                    ans.add(nums1[i]);
-                }
-                i++;
                 j++;
             }
         }
+
         int res[] = new int[ans.size()];
-            for(int k = 0 ; k < ans.size() ; k++){
-                res[k] = ans.get(k);
-            }
+        for(int k = 0 ; k < ans.size() ; k++){
+            res[k] = ans.get(k);
+        }
         return res;
     }
 }
