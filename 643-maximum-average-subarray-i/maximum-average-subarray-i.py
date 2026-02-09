@@ -1,15 +1,13 @@
 class Solution(object):
     def findMaxAverage(self, nums, k):
-            s = 0
-            w = 0
-            max_sum = float('-inf')
-
-            for e in range(len(nums)):
-                    w += nums[e]
-                    if e - s + 1 == k:
-                        max_sum = max(max_sum , w)
-                    
-                        w -= nums[s]
-                        s += 1
-            return max_sum / float(k)
+        left = 0
+        maxs = float('-inf')
+        wind = 0
+        for right in range(len(nums)):
+            wind += nums[right]
+            if right - left + 1 == k:
+                maxs = max(maxs , wind)
+                wind -= nums[left]
+                left += 1
+        return maxs * 1.0/ k
         
