@@ -6,14 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 
 ---
 
@@ -23,11 +25,23 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 8](https://github.com/AdityaUniyal97/AdityaUniyal97/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/AdityaUniyal97/AdityaUniyal97/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 8](https://github.com/AdityaUniyal97/AdityaUniyal97/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/AdityaUniyal97/AdityaUniyal97/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 
 ---
 
